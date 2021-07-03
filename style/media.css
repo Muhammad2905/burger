@@ -125,3 +125,32 @@ padding: 16px;
 }
 
 }
+@media(max-width:375px){
+    .link {
+        font-size: 11px;
+        margin-left: 11px;}
+        .content_header_text {
+            font-size: 36px;
+            line-height: 22px;
+        }
+        span {
+            font-size: 30px;
+            line-height: 0px;
+            padding: 31px 45px;
+        }
+        .burger_content_card {
+            max-width: 40%;
+            border-radius: 10px;
+            padding: 10px;
+            margin: 0px 18px;
+            margin-bottom: 20px;
+            margin-top: 9px;
+        }
+        .burger_content_text {
+            font-size: 13px;
+            line-height: 20px;
+        }
+        .footer_list {
+            margin-left: 23%;
+        }
+    }
